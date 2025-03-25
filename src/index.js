@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const baseUrl = 'http://localhost:3000/characters';
+    const baseUrl = 'https://bob-1-theta.vercel.app/characters';
     const characterBar = document.getElementById('character-bar');
     const nameDisplay = document.getElementById('name');
     const imageDisplay = document.getElementById('image');
